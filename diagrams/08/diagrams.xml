@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T14:15:44.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" version="13.10.0" etag="qB5SKZqQ9W-wgox9jDq0" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2020-12-05T15:08:44.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" version="13.10.0" etag="mq2zVC4LI9X4WbbhNfw-" type="github" pages="28">
   <diagram id="6e4d2b0d-b795-6cad-5c54-c05ab38cb34a" name="01 - image upload">
     <mxGraphModel dx="1371" dy="1408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
@@ -522,8 +522,8 @@
             <mxPoint x="1000" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11" value="Client tells server it needs to upload a file to S3.&amp;nbsp; Includes file name and file type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="759" y="279" width="190" height="50" as="geometry" />
+        <mxCell id="11" value="1 - Client tells server it needs to upload a file to S3.&amp;nbsp; Includes file name and file type" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="735" y="279" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="12" value="" style="endArrow=classic;html=1;strokeWidth=3;fontSize=24;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -531,7 +531,7 @@
             <mxPoint x="1330" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13" value="Server asks s3 for a presigned URL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="13" value="2 - Server asks s3 for a presigned URL" style="text;html=1;strokeColor=none;fillColor=#99FFCC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1080" y="290" width="190" height="39" as="geometry" />
         </mxCell>
         <mxCell id="14" value="" style="endArrow=classic;html=1;strokeWidth=3;fontSize=24;fontColor=#000000;" parent="1" edge="1">
@@ -570,7 +570,7 @@
         <mxCell id="21" value="React client tells server the upload was successful.&amp;nbsp; Server saves URL of that new image with the blog post" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="739" y="561" width="230" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="hwa21yntSFbSFIpHgoiV-21" value="Local Dev Environment Option&lt;br&gt;+ DB&lt;br&gt;+ FS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hwa21yntSFbSFIpHgoiV-21" value="Local Dev Environment Option /&amp;nbsp; TCA JS&lt;br&gt;+ DB&lt;br&gt;+ FS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="668" y="680" width="364" height="102" as="geometry" />
         </mxCell>
       </root>
