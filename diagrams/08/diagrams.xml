@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T15:08:44.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" version="13.10.0" etag="mq2zVC4LI9X4WbbhNfw-" type="github" pages="28">
+<mxfile host="app.diagrams.net" modified="2020-12-06T12:32:16.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" version="13.10.0" etag="l1GS_vxUiU5FJJMTmwEc" type="github" pages="28">
   <diagram id="6e4d2b0d-b795-6cad-5c54-c05ab38cb34a" name="01 - image upload">
     <mxGraphModel dx="1371" dy="1408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
@@ -852,7 +852,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="595a739b-07ae-070f-ed5e-93c48adecd51" name="21 - aws">
-    <mxGraphModel dx="1028" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -893,7 +893,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="22 - iam" id="c05e2321-0daf-a3a2-bdff-46966a201838">
-    <mxGraphModel dx="1028" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -937,11 +937,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="59939706-18af-8978-2a62-692cbea3555e" name="23 - iam">
-    <mxGraphModel dx="1028" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="866" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Aws IAM" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontColor=#000000;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="2" value="AWS IAM" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=20;fontColor=#000000;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="550" y="130" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=24;fontColor=#000000;align=center;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
